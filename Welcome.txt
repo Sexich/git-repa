@@ -1,3 +1,5 @@
 print("Welcome");
 print("Hello");
 print("Do you want some bread");
+print("Hello fellas");
+print("Glad to see you");
